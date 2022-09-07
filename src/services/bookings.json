@@ -1,0 +1,19 @@
+{
+  "bookings": [
+    {
+      "id": 1,
+      "name": "Joab",
+      "last_name": "Giraldo"
+    },
+    {
+      "id": 2,
+      "name": "Joab",
+      "last_name": "Giraldo"
+    },
+    {
+      "id": 3,
+      "name": "Joab",
+      "last_name": "Giraldo"
+    }
+  ]
+}
